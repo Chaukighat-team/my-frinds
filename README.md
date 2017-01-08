@@ -20,10 +20,7 @@
 </head>
 <body style="background-color: pink;">
   <center><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width:50px; hight:45px"><img src="https://lh3.googleusercontent.com/XEqpLoy50w3ncsFs5aa1f0gmhj4dph6f86aRR1T1D2ef0Qk39hFx834Owi_BrXugKtyY-sYJ2WM3eg=w773-h147-rw-no"><img src="http://www.clipartbest.com/cliparts/9cz/xyq/9czxyq9oi.png" style=" width: 50px; hight:45px;"></center>
-  <center><a href="https://m.facebook.com/Raazoo0?ref=bookmarks"><button>My facebook page.</button></a></center>
-	
-  </body>
-  </html>
+  <center><a href="https://m.facebook.com/Raazoo0?ref=bookmarks"><button>My facebook page.</button></a>
   <html>
 	<body>
   <center><p style="border-size:100%; border-style: double; border-color:blue; border-width: 6px;">
